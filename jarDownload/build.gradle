@@ -1,0 +1,7 @@
+jar {
+	baseName = "beerV1"
+}
+
+dependencies {
+	compile "org.apache.tomcat:tomcat-servlet-api:8.0.43"
+}
